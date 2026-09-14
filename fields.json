@@ -1,0 +1,1542 @@
+{
+  "brandName": "Sourdough & Co.",
+  "brandSlug": "sourdough-co-az",
+  "websiteUrl": "https://worldofsourdough.com",
+  "franchisorLegalName": "World of Sourdough Franchising, LLC",
+  "hqCity": "Granite Bay",
+  "hqState": "CA",
+  "hqZip": "95746",
+  "hqAddress": "8700 Auburn Folsom Rd., Suite 700, Granite Bay, CA 95746",
+  "hqSource": "FDD Item 1, p1",
+  "initialInvestmentMin": 285800,
+  "initialInvestmentMax": 568725,
+  "totalInvestmentMin": 285800,
+  "totalInvestmentMax": 568725,
+  "franchiseFee": 49500,
+  "royaltyFee": "5% of Gross Revenues",
+  "royaltyPercent": 5,
+  "totalUnits": 80,
+  "openLocations": 80,
+  "corporateCity": "Granite Bay",
+  "corporateState": "CA",
+  "corporateZip": "95746",
+  "corporateAddress": "8700 Auburn Folsom Rd., Suite 700, Granite Bay, CA 95746",
+  "hq_source": "FDD Item 1, p1 — franchisor principal office",
+  "description": "Sourdough & Co. (World of Sourdough Franchising, LLC) is a quick-service sandwich restaurant franchise offering handcrafted sandwiches, soups, salads, pasta, beverages and catering from eat-in/carry-out retail locations. FDD Item 19 reports average 2024 sales of $719,491 across 64 locations open all year (range $297,320-$1,117,988); Item 20 shows 80 outlets systemwide as of 2024-12-31 with zero terminations in 2022-2024. Initial investment $285,800-$568,725; 5% royalty; 2-mile protected (non-exclusive) territory.",
+  "category": "Food & Beverage - Sandwich / Quick Service Restaurant",
+  "yearFounded": 2021,
+  "yearFranchising": 2021,
+  "fddYear": 2025,
+  "territoryDescription": "2-mile radius of the Specific Location (MapQuest). Non-exclusive: franchisor may place Non-Traditional Sites (malls, airports, campuses, military, inside retail) inside the radius and competes via other channels. (FDD Item 12, pp37-38)",
+  "item12": "2-mile radius of Specific Location; not exclusive (FDD Item 12, pp37-38)",
+  "item20PinCount": 12,
+  "item20_fdd_count": 80,
+  "item20_reconciliation": "FDD Item 20 (p69, as of 2024-12-31): 80 total outlets (78 franchised + 2 affiliate-owned per Table 1; Table 3 state detail sums to 80 franchised, a 2-unit internal table discrepancy noted and cited). Trade press Sep 2026: 82 operating locations. Net +2 since FDD date.",
+  "pins": [
+    {
+      "city": "El Dorado Hills, CA",
+      "state": "CA",
+      "latitude": 38.68274,
+      "longitude": -121.05368
+    },
+    {
+      "city": "Sacramento, CA",
+      "state": "CA",
+      "latitude": 38.58106,
+      "longitude": -121.49389
+    },
+    {
+      "city": "Roseville, CA",
+      "state": "CA",
+      "latitude": 38.75212,
+      "longitude": -121.28801
+    },
+    {
+      "city": "Lincoln, CA",
+      "state": "CA",
+      "latitude": 38.89157,
+      "longitude": -121.29318
+    },
+    {
+      "city": "Dublin, CA",
+      "state": "CA",
+      "latitude": 37.70215,
+      "longitude": -121.93579
+    },
+    {
+      "city": "Livermore, CA",
+      "state": "CA",
+      "latitude": 37.68206,
+      "longitude": -121.76805
+    },
+    {
+      "city": "Brentwood, CA",
+      "state": "CA",
+      "latitude": 37.93178,
+      "longitude": -121.69603
+    },
+    {
+      "city": "San Marcos, CA",
+      "state": "CA",
+      "latitude": 33.1353,
+      "longitude": -117.17434
+    },
+    {
+      "city": "Folsom, CA",
+      "state": "CA",
+      "latitude": 38.67796,
+      "longitude": -121.17606
+    },
+    {
+      "city": "Houston, TX",
+      "state": "TX",
+      "latitude": 29.75894,
+      "longitude": -95.3677
+    },
+    {
+      "city": "Chandler, AZ",
+      "state": "AZ",
+      "latitude": 33.3062,
+      "longitude": -111.84118
+    },
+    {
+      "city": "Avondale, AZ",
+      "state": "AZ",
+      "latitude": 33.43537,
+      "longitude": -112.34944
+    }
+  ],
+  "breakdown": {
+    "absolute_cited": 218,
+    "theoretical": 9,
+    "matching": 8,
+    "total": 235
+  },
+  "fields": {
+    "franchisor_legal_name": {
+      "value": "World of Sourdough Franchising, LLC",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_entity_type": {
+      "value": "Texas limited liability company",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_formed_date": {
+      "value": "2021-03-18",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_principal_office": {
+      "value": "8700 Auburn Folsom Rd., Suite 700, Granite Bay, CA 95746",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_phone_item1": {
+      "value": "(800) 659-0130",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_phone_receipts": {
+      "value": "(916) 509-2495",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.receipts"
+    },
+    "franchisor_website": {
+      "value": "www.worldofsourdough.com",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_franchising_since": {
+      "value": "2021",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_other_business_lines": {
+      "value": "never engaged in any other business activity; no franchises in any other line",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_parents": {
+      "value": "no parent",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_predecessors": {
+      "value": "no predecessor",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchisor_does_business_under": {
+      "value": "company name and the name Sourdough & Co.; no other names",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "franchise_concept": {
+      "value": "restaurant offering a variety of handcrafted sandwiches and other food products",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "system_dine_in_carryout": {
+      "value": "eat-in and carry-out dining services at retail locations with interior/exterior trade dress",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.2"
+    },
+    "franchise_system_marks": {
+      "value": "Proprietary Marks and intellectual property of World of Sourdough",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "area_development_offered": {
+      "value": true,
+      "type": "absolute",
+      "citation": "FDD Item 1, p.2"
+    },
+    "area_development_min_units": {
+      "value": 10,
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "affiliate_count": {
+      "value": 2,
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "affiliate_food_professionals": {
+      "value": "Food Professionals, Inc., CA corporation formed 2022-10-21; operates 1 WOSD franchise at 4390 Town Center Blvd #140, El Dorado Hills, CA 95762 (opened 2022-05-09); principals Jatinder (Nick) Singh and Songye Qin own 50% each; does not offer franchises",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "affiliate_rs_foods": {
+      "value": "R & S Foods, Inc., formed 2022-07-12, 4761 Waterstone Dr., Roseville, CA 95747; operates 1 WOSD franchise at 381 Green Valley Rd, El Dorado Hills, CA 95762 (opened 2022-05-09); flagship/R&D/training location; does not offer franchises",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.2"
+    },
+    "affiliate_independence": {
+      "value": "affiliates independent entities; no cross-assumption of legal obligations",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.2"
+    },
+    "market_competition_desc": {
+      "value": "restaurant industry including sandwich restaurants is developed and intensely competitive; competitors compete on price, service, location, food quality",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.2"
+    },
+    "franchisees_compete_with_system": {
+      "value": "competitors may include other WOSD businesses owned by us, affiliates, or other franchisees",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.2"
+    },
+    "seasonality": {
+      "value": "may experience seasonal changes depending on location",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.3"
+    },
+    "industry_laws_responsibility": {
+      "value": "franchisee solely responsible for knowing/complying with all applicable laws; franchisor not obligated to provide guidance",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.3"
+    },
+    "usa_patriot_act_compliance": {
+      "value": "franchisee confirms no terrorist/suspected-terrorist association per USA Patriot Act",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.3"
+    },
+    "agents_for_service": {
+      "value": "disclosed in Exhibit A",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.1"
+    },
+    "president_name": {
+      "value": "Jatinder (Nick) Singh",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "president_title": {
+      "value": "President and Manager; owner/member",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "president_since": {
+      "value": "2021-03-18",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "president_prior_experience": {
+      "value": "President/Manager/owner of Trademark Pizza Company, LLC, Roseville, CA (2018-2021); retailer and developer of gas stations in CA (2009-present)",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "vp_name": {
+      "value": "Songye Qin",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "vp_title": {
+      "value": "Vice-President, Secretary, Co-Manager, Member; owner/member",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "vp_since": {
+      "value": "2021-03-18",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "vp_prior_experience": {
+      "value": "supervisor at Capital Restaurant Services, Sacramento, CA (Nov 2015-Feb 2021)",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "consultant_steve_presson": {
+      "value": "independent consultant for WOSD assisting business operations since 2024-01-02; was President of Sourdough & Co., El Dorado Hills, CA (2016-2023)",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.4"
+    },
+    "officer_david_bagley": {
+      "value": "David Bagley listed as officer on receipts (2025-02-18); no Item 2 bio disclosed",
+      "type": "absolute",
+      "citation": "FDD Item 2, p.receipts"
+    },
+    "broker_network": {
+      "value": "Franchise Fastlane brokers: Jake Hamburger, Jen Lauer, Savannah Showalter, Katie Randall, Hannah Miller, Cassandra Gordon, Amie Hawk; 14301 FNB Pkwy, Suite 312, Omaha, NE 68154; (531) 333-3278",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.receipts"
+    },
+    "litigation_disclosure": {
+      "value": "3 litigation matters disclosed",
+      "type": "absolute",
+      "citation": "FDD Item 3, p.4"
+    },
+    "litigation_gsd_foods": {
+      "value": "GSD Foods, Inc. et al. v. Sourdough & Co., Inc. et al., Sacramento Superior Court No. 34-2020-0027829B (complaint 2020-03-09); franchisor + principals added 2023-06-14 via single-enterprise theory (CA Franchise Investment Law, Cartwright Act, unfair practices, fraud, civil RICO claims); settled confidentially for $240,000 paid in installments; dismissal with prejudice filed 2024-06-21; mutual releases",
+      "type": "absolute",
+      "citation": "FDD Item 3, p.4"
+    },
+    "litigation_settlement_amount": {
+      "value": 240000,
+      "type": "absolute",
+      "citation": "FDD Item 3, p.4"
+    },
+    "litigation_gsd_dismissal_date": {
+      "value": "2024-06-21",
+      "type": "absolute",
+      "citation": "FDD Item 3, p.5"
+    },
+    "litigation_case_2818171": {
+      "value": "Sacramento Superior Court No. 34-2020-002818171 (filed 2020-07-16); breach of contract, interference, unfair practices, trade libel, fraud, conversion, breach of fiduciary duty; hearing to dismiss March 2025; dismissal with prejudice expected",
+      "type": "absolute",
+      "citation": "FDD Item 3, p.5"
+    },
+    "litigation_case_278230": {
+      "value": "Sacramento Superior Court No. 34-2020-00278230 (complaint 2019-11-27); failure to register franchise (Corp Code 31300/31110), B&P 17200, misrepresentation; Presson cross-complaint 2020-09-18 (fraud/deceit); settlement hearing May 2025; trial July 2025",
+      "type": "absolute",
+      "citation": "FDD Item 3, p.5"
+    },
+    "bankruptcy_disclosure": {
+      "value": "no bankruptcies are required to be disclosed",
+      "type": "absolute",
+      "citation": "FDD Item 4, p.5"
+    },
+    "initial_franchise_fee": {
+      "value": 49500,
+      "type": "absolute",
+      "citation": "FDD Item 5, p.5"
+    },
+    "initial_franchise_fee_due": {
+      "value": "lump sum at signing of Franchise Agreement",
+      "type": "absolute",
+      "citation": "FDD Item 5, p.5"
+    },
+    "initial_franchise_fee_refundable": {
+      "value": false,
+      "type": "absolute",
+      "citation": "FDD Item 5, p.5"
+    },
+    "initial_franchise_fee_uniform": {
+      "value": true,
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "initial_fee_includes": {
+      "value": "defined territory, training, and a custom local affiliate website with online ordering functionality",
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "initial_fee_deemed_earned": {
+      "value": "deemed fully earned upon opening of the Franchised Business",
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "area_development_fee_applied_per_unit": {
+      "value": 15000,
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "area_development_fee_refundable": {
+      "value": false,
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "area_development_fee_terms": {
+      "value": "development fee = per-unit multiplier x Development Schedule units; $15,000 of development fee applied toward each unit's initial franchise fee; each ADA-covered unit carries a 10-year term with two 5-year renewal options",
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "additional_unit_eligibility": {
+      "value": "must satisfy then-current qualifications/training, not be in default, execute then-current FA",
+      "type": "absolute",
+      "citation": "FDD Item 5, p.5"
+    },
+    "fee_deferral_escrow_states": {
+      "value": "in states requiring it, initial payments may be deferred or escrowed until initial obligations met (Exhibit D addenda)",
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "protected_area_timing": {
+      "value": "protected area determined once specific location identified and approved",
+      "type": "absolute",
+      "citation": "FDD Item 5, p.6"
+    },
+    "royalty_percent": {
+      "value": 5,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.7"
+    },
+    "royalty_base": {
+      "value": "5% of Gross Revenues",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.7"
+    },
+    "royalty_due": {
+      "value": "weekly, every Sunday, starting immediately once Business open for operation",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.7"
+    },
+    "royalty_payment_method": {
+      "value": "electronic transfer with direct deposit to franchisor",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.11"
+    },
+    "royalty_post_termination": {
+      "value": "may be required to continue royalty payments for remainder of term if FA terminated",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.11"
+    },
+    "royalty_uniform_nonrefundable": {
+      "value": "uniformly imposed; non-refundable; payable only to franchisor",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.12"
+    },
+    "system_advertising_fee_current": {
+      "value": "currently none",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.7"
+    },
+    "system_advertising_fee_future": {
+      "value": "if implemented: 1% of weekly Gross Revenues; total contribution capped at 3% of Gross Revenues per calendar year; 90 days' notice for increases",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.12"
+    },
+    "local_advertising_fee": {
+      "value": "currently 1%, up to 3% of Gross Revenues per month; spent by franchisee to promote own Business locally",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.7"
+    },
+    "website_fee_current": {
+      "value": "currently no fee; franchisee pays any hosting/pro-rata third-party fee if imposed",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.13"
+    },
+    "pos_software_fee_monthly_table": {
+      "value": 184,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.7"
+    },
+    "pos_software_fee_monthly_note": {
+      "value": 185,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.12"
+    },
+    "loyalty_app_fee_monthly": {
+      "value": 100,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.7"
+    },
+    "loyalty_app_vendor": {
+      "value": "Heartland Loyalty Powered by Como",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.13"
+    },
+    "late_fee": {
+      "value": 100,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.8"
+    },
+    "late_fee_trigger": {
+      "value": "each royalty or advertising fee payment not received within 5 days of due date",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.8"
+    },
+    "interest_rate": {
+      "value": "18% per annum for any payment not received within 30 days of due date (CA maximum 10% per annum)",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.8"
+    },
+    "audit_expense_cost": {
+      "value": "cost of audit plus interest; payable only if audit shows understatement of 3% or more of Gross Revenues; expected $3,000-$5,000",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.9"
+    },
+    "curable_violation_fee": {
+      "value": 200,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.9"
+    },
+    "curable_violation_fee_trigger": {
+      "value": "per violation of any curable term of default and/or material violation of operating procedure",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.9"
+    },
+    "additional_training_fee": {
+      "value": "then-current fee; up to $200 per person per day plus third-party charges; franchisee pays room/board/travel",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.9"
+    },
+    "initial_training_covered_persons": {
+      "value": 2,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.9"
+    },
+    "transfer_fee": {
+      "value": 10000,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.10"
+    },
+    "transfer_fee_broker_leads": {
+      "value": "if transferee came from lead database, may owe then-current referral fee plus broker costs",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.10"
+    },
+    "transfer_fee_exceptions": {
+      "value": "no fee for transfers to spouse, <20% entity interest transfers, or convenience-of-ownership entity transfers",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.13"
+    },
+    "renewal_fee": {
+      "value": 10000,
+      "type": "absolute",
+      "citation": "FDD Item 6, p.10"
+    },
+    "site_evaluation_fee": {
+      "value": "2 on-site evaluations at no fee (reimburse travel/lodging/meals); additional evaluations at then-standard fee",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.10"
+    },
+    "indemnification": {
+      "value": "franchisee indemnifies/holds harmless/defends franchisor for claims from operation of Franchised Location (excludes franchisor gross negligence/intentional misconduct)",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.13"
+    },
+    "collection_costs": {
+      "value": "prevailing party recovers attorneys fees and court/arbitration/collection costs; mediation costs borne by each party",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.13"
+    },
+    "refresher_training_cost": {
+      "value": "estimated not to exceed $200 per person per day plus travel expenses",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.11"
+    },
+    "gross_revenues_definition": {
+      "value": "all sales and other income on accrual basis (cash or credit), less good-faith refunds/discounts and separately stated sales/excise taxes; third-party fees and uncollected funds NOT excluded",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.11"
+    },
+    "all_fees_uniform_nonrefundable": {
+      "value": "all fees uniformly imposed and non-refundable (except as stated)",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.11"
+    },
+    "mediation_required_first": {
+      "value": "must attempt mediation before bringing any claim against franchisor",
+      "type": "absolute",
+      "citation": "FDD Item 6, p.13"
+    },
+    "investment_min": {
+      "value": 285800,
+      "type": "absolute",
+      "citation": "FDD Item 7, p.16"
+    },
+    "investment_max": {
+      "value": 568725,
+      "type": "absolute",
+      "citation": "FDD Item 7, p.16"
+    },
+    "inv_initial_franchise_fee": {
+      "value": "49500/49500",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.14"
+    },
+    "inv_technology": {
+      "value": "7000/15500 (POS, computer/laptop, tablet, software, modem, routers, TVs, sound, cameras, phones)",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.14"
+    },
+    "inv_kitchen_equipment_fixtures": {
+      "value": "50000/95000",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.14"
+    },
+    "inv_real_estate": {
+      "value": "5000/12000",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.14"
+    },
+    "inv_leasehold_improvements": {
+      "value": "125000/300000",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.15"
+    },
+    "inv_utilities": {
+      "value": "1500/4000",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.15"
+    },
+    "inv_signage": {
+      "value": "5000/15000",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.15"
+    },
+    "inv_architectural_drawings": {
+      "value": "4000/15000",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.15"
+    },
+    "inv_startup_inventory": {
+      "value": "8650/12200 (first month)",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.15"
+    },
+    "inv_grand_opening": {
+      "value": "7500/10000",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.15"
+    },
+    "inv_equipment_decor": {
+      "value": "3500/5000",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.15"
+    },
+    "inv_staffing": {
+      "value": "6500/11600 (first month)",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.16"
+    },
+    "inv_uniforms": {
+      "value": "750/1000 (minimum 20 logoed shirts)",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.16"
+    },
+    "inv_insurance": {
+      "value": "1200/2025",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.16"
+    },
+    "inv_travel_training": {
+      "value": "1200/2400 (one person; corporate headquarters)",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.16"
+    },
+    "inv_licenses_permits": {
+      "value": "1500/3500",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.16"
+    },
+    "inv_additional_funds": {
+      "value": "8000/15000 (working capital, first 3 months)",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.16"
+    },
+    "investment_basis": {
+      "value": "estimates based on prior experience and industry research of President Jatinder Singh; not guaranteed",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.14"
+    },
+    "investment_all_nonrefundable": {
+      "value": "all fees and payments non-refundable unless otherwise stated",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.14"
+    },
+    "insurance_requirements": {
+      "value": "All-Risk on FF&E; CGL $1,000,000 aggregate single; E&O $250k/$500k; auto $1M CSL; employee dishonesty $10k; annual premium est. $3,000-$5,000; workers comp extra",
+      "type": "absolute",
+      "citation": "FDD Item 7, p.17"
+    },
+    "supplier_restriction_scope": {
+      "value": "all products, fixtures, furnishings, equipment, decor, supplies, computers/communications hardware/software, signs, materials must meet standards and be approved",
+      "type": "absolute",
+      "citation": "FDD Item 8, p.20"
+    },
+    "approved_supplier_share": {
+      "value": "estimated 90%-100% of total purchases (establishment and continuing operation)",
+      "type": "absolute",
+      "citation": "FDD Item 8, p.20"
+    },
+    "sole_supplier_possible": {
+      "value": "franchisor may designate a single supplier (possibly franchisor or affiliate) for any item; franchisee must buy exclusively from it",
+      "type": "absolute",
+      "citation": "FDD Item 8, p.20"
+    },
+    "proprietary_products": {
+      "value": "must purchase Proprietary Products only from designated suppliers; franchisor manufactures to proprietary recipes/formulae",
+      "type": "absolute",
+      "citation": "FDD Item 8, p.21"
+    },
+    "supplier_rebates": {
+      "value": "franchisor and/or affiliates may receive payments from suppliers; no officer/director owns interest in any vendor",
+      "type": "absolute",
+      "citation": "FDD Item 8, p.21"
+    },
+    "supplier_approval_cost": {
+      "value": "franchisee reimburses reasonable evaluation/testing costs for unapproved supplier requests",
+      "type": "absolute",
+      "citation": "FDD Item 8, p.20"
+    },
+    "no_purchasing_coops": {
+      "value": "no purchasing or distribution cooperatives currently in the System",
+      "type": "absolute",
+      "citation": "FDD Item 8, p.21"
+    },
+    "item9_obligation_table": {
+      "value": "Item 9 table cross-references franchisee principal obligations to Franchise Agreement sections (site selection, pre-opening purchases, training, manual compliance, fees)",
+      "type": "absolute",
+      "citation": "FDD Item 9, p.25"
+    },
+    "financing_offered": {
+      "value": false,
+      "type": "absolute",
+      "citation": "FDD Item 10, p.26"
+    },
+    "financing_guarantee": {
+      "value": "will not guarantee any note, lease, or other obligation",
+      "type": "absolute",
+      "citation": "FDD Item 10, p.26"
+    },
+    "preopening_site_approval": {
+      "value": "franchisor approves Specific Location within General Area and designates protected territory",
+      "type": "absolute",
+      "citation": "FDD Item 11, p.26"
+    },
+    "initial_training_hours": {
+      "value": "98-230 hours (classroom + on-the-job; actual may vary)",
+      "type": "absolute",
+      "citation": "FDD Item 11, p.36"
+    },
+    "initial_training_self_study": {
+      "value": "2 hours self-study before program",
+      "type": "absolute",
+      "citation": "FDD Item 11, p.36"
+    },
+    "initial_training_location": {
+      "value": "corporate headquarters (Granite Bay, CA)",
+      "type": "absolute",
+      "citation": "FDD Item 11, p.16"
+    },
+    "advertising_fund_status": {
+      "value": "no separate advertising fund operating (System Advertising Fee not implemented); franchisor may use contributions at its discretion with no fiduciary duty when implemented",
+      "type": "absolute",
+      "citation": "FDD Item 11, p.12"
+    },
+    "annual_conference": {
+      "value": "may hold annual conferences; fees may be charged; franchisee pays travel/lodging/meals/wages",
+      "type": "absolute",
+      "citation": "FDD Item 11, p.36"
+    },
+    "ongoing_training_free_channels": {
+      "value": "memos/newsletters plus telephone/webinar/video refresher training at no cost",
+      "type": "absolute",
+      "citation": "FDD Item 11, p.36"
+    },
+    "refresher_training_mandatory_rare": {
+      "value": "in rare instances may require additional/refresher training to correct operations",
+      "type": "absolute",
+      "citation": "FDD Item 11, p.36"
+    },
+    "territory_definition": {
+      "value": "2-mile radius of Specific Location, measured per MapQuest or similar mapping program",
+      "type": "absolute",
+      "citation": "FDD Item 12, p.38"
+    },
+    "territory_exclusive": {
+      "value": false,
+      "type": "absolute",
+      "citation": "FDD Item 12, p.37"
+    },
+    "territory_carveouts": {
+      "value": "no-territory protection against Non-Traditional Sites: indoor shopping malls, airports, college campuses, military bases, inside retail establishments (convenience store/gas station)",
+      "type": "absolute",
+      "citation": "FDD Item 12, p.38"
+    },
+    "territory_adjustment": {
+      "value": "franchisor may grant larger or smaller territory for density, geography, highway exits, bridges, natural structures, waterways",
+      "type": "absolute",
+      "citation": "FDD Item 12, p.38"
+    },
+    "territory_competition_warning": {
+      "value": "may face competition from other franchisees, franchisor-owned outlets, other distribution channels, competitive brands franchisor controls",
+      "type": "absolute",
+      "citation": "FDD Item 12, p.37"
+    },
+    "west_coast_sourdough_setback": {
+      "value": "per settlement with West Coast Sourdough, Inc.: no WOSD restaurant within 3 miles of an existing West Coast Sourdough store",
+      "type": "absolute",
+      "citation": "FDD Item 12, p.38"
+    },
+    "target_marketing_restricted": {
+      "value": "direct marketing and solicitation only within approved Territory; special events allowed within Territory",
+      "type": "absolute",
+      "citation": "FDD Item 12, p.38"
+    },
+    "development_territory_protection": {
+      "value": "no other WOSD restaurant in Development Territory while ADA in effect (except Non-Traditional Sites); protection expires on ADA expiration/termination or per-Target-Area signing",
+      "type": "absolute",
+      "citation": "FDD Item 12, p.41"
+    },
+    "no_additional_unit_rights": {
+      "value": "no options, rights of first refusal, or similar rights to acquire additional franchises under ADA",
+      "type": "absolute",
+      "citation": "FDD Item 12, p.42"
+    },
+    "marks_licensed": {
+      "value": "World of Sourdough, Sourdough & Co., and other current/future Marks",
+      "type": "absolute",
+      "citation": "FDD Item 13, p.42"
+    },
+    "trademark_reg_6873875": {
+      "value": "word/design mark 'Sourdough & Co.', IC 043 Restaurant Services, USPTO Reg. No. 6873875, dated 2022-10-11",
+      "type": "absolute",
+      "citation": "FDD Item 13, p.43"
+    },
+    "trademark_reg_6042633": {
+      "value": "design/word mark, USPTO Reg. No. 6042633, dated 2020-04-28; assigned by Sourdough & Co, Inc. to franchisor on 2024-08-09",
+      "type": "absolute",
+      "citation": "FDD Item 13, p.43"
+    },
+    "trademark_owner": {
+      "value": "World of Sourdough Franchising, LLC",
+      "type": "absolute",
+      "citation": "FDD Item 13, p.43"
+    },
+    "unregistered_marks_risk": {
+      "value": "common-law rights only for some marks; if right to use challenged, franchisee may have to change marks at own expense",
+      "type": "absolute",
+      "citation": "FDD Item 13, p.43"
+    },
+    "confidential_info_assignment": {
+      "value": "franchisee innovations (equipment, recipes, processes, promotions) must be disclosed to franchisor without compensation; confidential info proprietary to franchisor during and after term",
+      "type": "absolute",
+      "citation": "FDD Item 14, p.47"
+    },
+    "owner_operator_required": {
+      "value": false,
+      "type": "absolute",
+      "citation": "FDD Item 15, p.47"
+    },
+    "manager_required": {
+      "value": "Franchised Restaurant must at all times be under on-site supervision of a manager (franchisee or approved designee) who completed initial training",
+      "type": "absolute",
+      "citation": "FDD Item 15, p.47"
+    },
+    "manager_competitor_ban": {
+      "value": "manager may not have interest/business relationship with any competitor",
+      "type": "absolute",
+      "citation": "FDD Item 15, p.47"
+    },
+    "personal_guarantee": {
+      "value": "each owner holding >10% interest plus spouses must personally guarantee FA obligations and be bound by confidentiality/non-competition",
+      "type": "absolute",
+      "citation": "FDD Item 15, p.47"
+    },
+    "menu_approval": {
+      "value": "all menu items offered for sale subject to franchisor approval",
+      "type": "absolute",
+      "citation": "FDD Item 16, p.48"
+    },
+    "required_products": {
+      "value": "signature made-to-order sandwiches, soups, salads, pasta, non-alcoholic beverages; walk-up quick-serve counter; catering; delivery and counter service",
+      "type": "absolute",
+      "citation": "FDD Item 16, p.48"
+    },
+    "franchisor_pricing_rights": {
+      "value": "franchisor suggests pricing strategy and may establish minimum and maximum prices/rates",
+      "type": "absolute",
+      "citation": "FDD Item 16, p.49"
+    },
+    "product_approval_response_days": {
+      "value": 30,
+      "type": "absolute",
+      "citation": "FDD Item 16, p.49"
+    },
+    "menu_change_rights": {
+      "value": "franchisor may change/modify authorized products/services at any time without limit",
+      "type": "absolute",
+      "citation": "FDD Item 16, p.49"
+    },
+    "premises_use_restriction": {
+      "value": "Business premises may not be used for any purpose other than WOSD Business without written approval",
+      "type": "absolute",
+      "citation": "FDD Item 16, p.48"
+    },
+    "term_years": {
+      "value": 10,
+      "type": "absolute",
+      "citation": "FDD Item 17, p.50"
+    },
+    "renewal_terms": {
+      "value": "2 additional 5-year terms",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.50"
+    },
+    "renewal_conditions": {
+      "value": "prior notice; not in default; no more than 3 default/noncompliance notices in prior term; sign then-current FA; pay renewal fee; refurbish to standards; sign general release; meet qualifications/training",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.50"
+    },
+    "termination_by_franchisor_without_cause": {
+      "value": false,
+      "type": "absolute",
+      "citation": "FDD Item 17, p.50"
+    },
+    "termination_by_franchisee": {
+      "value": "if franchisor materially fails to comply after 30 days' notice (subject to state law)",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.50"
+    },
+    "curable_default_cure_days": {
+      "value": 60,
+      "type": "absolute",
+      "citation": "FDD Item 17, p.51"
+    },
+    "ada_cure_days": {
+      "value": 30,
+      "type": "absolute",
+      "citation": "FDD Item 17, p.51"
+    },
+    "noncurable_defaults": {
+      "value": "training failure; failure to timely open (earlier of 3 months after securing location or 12 months after signing); failure of continuous operation; bankruptcy/insolvency; unapproved transfers; false books; unsatisfied judgment; felony; repeated defaults; public-health danger; lease termination",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.51"
+    },
+    "noncompete_in_term": {
+      "value": "may not engage in or have any interest in any competing business during term",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.53"
+    },
+    "noncompete_post_years": {
+      "value": 2,
+      "type": "absolute",
+      "citation": "FDD Item 17, p.53"
+    },
+    "noncompete_post_miles": {
+      "value": 15,
+      "type": "absolute",
+      "citation": "FDD Item 17, p.53"
+    },
+    "transfer_approval": {
+      "value": "franchisor must approve all transfers in writing; approval not unreasonably withheld",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.52"
+    },
+    "transfer_conditions": {
+      "value": "monetary obligations satisfied; franchisor's right to receive secondary; general release; transferee training at own expense; transfer fee paid",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.52"
+    },
+    "rofr": {
+      "value": "franchisor can match any offer for the business",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.53"
+    },
+    "liquidated_damages_future_fees": {
+      "value": "on early termination: monthly average of all royalties, advertising fees, and other recurring fees for remainder of term",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.52"
+    },
+    "death_disability_transfer": {
+      "value": "franchise/ownership transferred per ROFR unless transferee meets standards and transfer conditions",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.53"
+    },
+    "dispute_resolution": {
+      "value": "mediation first; then arbitration/judicial; prevailing party recovers fees; no modifications to FA unless signed by both parties",
+      "type": "absolute",
+      "citation": "FDD Item 17, p.53"
+    },
+    "public_figure": {
+      "value": "no public figure used to promote the franchise",
+      "type": "absolute",
+      "citation": "FDD Item 18, p.54"
+    },
+    "item19_period": {
+      "value": "FY 2024: January 1, 2024 through December 31, 2024",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.57"
+    },
+    "item19_outlets_open_all_2024": {
+      "value": 64,
+      "type": "absolute",
+      "citation": "FDD Item 19, p.57"
+    },
+    "item19_total_outlets_end_2024": {
+      "value": "78 franchised + 2 affiliate-owned = 80",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.57"
+    },
+    "item19_coverage_pct": {
+      "value": 80.0,
+      "type": "absolute",
+      "citation": "FDD Item 19, p.57"
+    },
+    "item19_total_annual_sales": {
+      "value": 46047402.13,
+      "type": "absolute",
+      "citation": "FDD Item 19, p.66"
+    },
+    "item19_avg_store_sales": {
+      "value": 719490.66,
+      "type": "absolute",
+      "citation": "FDD Item 19, p.66"
+    },
+    "item19_avg_monthly_sales": {
+      "value": 59957.55,
+      "type": "absolute",
+      "citation": "FDD Item 19, p.66"
+    },
+    "item19_lowest_store": {
+      "value": "51 Laguna $297,319.81",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.67"
+    },
+    "item19_highest_store": {
+      "value": "53 SR Valley $1,117,987.74",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.67"
+    },
+    "item19_sales_range": {
+      "value": 820667.93,
+      "type": "absolute",
+      "citation": "FDD Item 19, p.67"
+    },
+    "item19_audited": {
+      "value": false,
+      "type": "absolute",
+      "citation": "FDD Item 19, p.56"
+    },
+    "item19_verification": {
+      "value": "no CPA audited or opined; franchisor has not independently verified franchisee-reported data",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.56"
+    },
+    "item19_affiliate_home_market_note": {
+      "value": "affiliate outlets in El Dorado Hills where brand has more reputation/goodwill vs. other US regions",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.55"
+    },
+    "item19_only_representation": {
+      "value": "no other financial performance representations made or authorized",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.56"
+    },
+    "item19_yoy_chart_numeric": {
+      "value": "insufficient-data",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.68"
+    },
+    "item19_kpi_avg_ticket_numeric": {
+      "value": "insufficient-data",
+      "type": "absolute",
+      "citation": "FDD Item 19, p.68"
+    },
+    "item20_total_outlets_end_2024": {
+      "value": 80,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69"
+    },
+    "item20_table1_franchised_end_2024": {
+      "value": 78,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69"
+    },
+    "item20_affiliate_owned_end_2024": {
+      "value": 2,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69"
+    },
+    "item20_table_discrepancy_note": {
+      "value": "Table 1 shows 78 franchised + 2 affiliate = 80; Table 3 state detail sums to 80 franchised (61 start + 19 opened). 2-unit internal table discrepancy noted; both tables cited",
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69-70"
+    },
+    "item20_outlets_2022": {
+      "value": 5,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69"
+    },
+    "item20_outlets_2023": {
+      "value": 63,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69"
+    },
+    "item20_outlets_2024": {
+      "value": 80,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69"
+    },
+    "item20_net_change_2024": {
+      "value": 17,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69"
+    },
+    "item20_opened_2024_state_table": {
+      "value": 19,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_terminations_2022_2024": {
+      "value": 0,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_transfers_2024": {
+      "value": 8,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.69"
+    },
+    "item20_state_az": {
+      "value": 5,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_state_ca": {
+      "value": 71,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_state_co": {
+      "value": 1,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_state_nv": {
+      "value": 1,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_state_or": {
+      "value": 1,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_state_tx": {
+      "value": 1,
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_signed_not_opened": {
+      "value": "CA 36, NV 1 (37 signed but not opened)",
+      "type": "absolute",
+      "citation": "FDD Item 20, p.71"
+    },
+    "item20_projected_2025": {
+      "value": "43 (AZ 2, CA 30, CO 3, NV 2, OR 3, TX 3, UT 0)",
+      "type": "absolute",
+      "citation": "FDD Item 20, p.71"
+    },
+    "item20_fye": {
+      "value": "December 31",
+      "type": "absolute",
+      "citation": "FDD Item 20, p.70"
+    },
+    "item20_outlet_list_source": {
+      "value": "Exhibit F (image-based; outlet-level addresses not text-extractable)",
+      "type": "absolute",
+      "citation": "FDD Item 20, p.Ex F"
+    },
+    "financial_statements": {
+      "value": "certified independent audited financial statements, formation 2021-03-18 through 2024-12-31, Exhibit G; fiscal year end December 31",
+      "type": "absolute",
+      "citation": "FDD Item 21, p.72"
+    },
+    "contracts_attached": {
+      "value": "Franchise Agreement and Exhibits; state addenda (Exhibit D)",
+      "type": "absolute",
+      "citation": "FDD Item 22, p.72"
+    },
+    "fdd_issuance_date": {
+      "value": "2025-02-18",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.receipts"
+    },
+    "fdd_year": {
+      "value": 2025,
+      "type": "absolute",
+      "citation": "FDD Item 1, p.receipts"
+    },
+    "fdd_filename": {
+      "value": "2025_Sourdough__Co_FDD_-_Multi-State_IN_M.pdf",
+      "type": "absolute",
+      "citation": "FDD Item 1, p.receipts"
+    },
+    "web_location_count": {
+      "value": "82 operating locations",
+      "type": "absolute",
+      "citation": "web: PR/Franchise FastLane via web search, 2026-09-12"
+    },
+    "web_new_units": {
+      "value": "19 new units",
+      "type": "absolute",
+      "citation": "web: BizBuySell via web search, 2026-09-12"
+    },
+    "web_states": {
+      "value": "80+ locations across 7 states",
+      "type": "absolute",
+      "citation": "web: QSR via web search, 2026-09-12"
+    },
+    "t_risk_score": {
+      "value": 49,
+      "type": "theoretical",
+      "citation": "method: weighted composite 0-100 (higher=riskier): litigation(75)x0.20 + closure_history(10)x0.15 + fee_burden(45)x0.15 + item19_evidence(55)x0.20 + system_maturity(50)x0.15 + territory_protection(60)x0.10 + growth_trend(30)x0.05 = 48.75 -> 49"
+    },
+    "t_closure_rate_3yr": {
+      "value": 0.0,
+      "type": "theoretical",
+      "citation": "method: terminations + ceased operations / average outlets 2022-2024 = 0/(5+63+80)/3 = 0% (FDD Item 20, p70)"
+    },
+    "t_fee_burden_pct": {
+      "value": 6.9,
+      "type": "theoretical",
+      "citation": "method: 5% royalty + 1% local ad + ~0.5% tech ($285/mo on $60k/mo avg) = ~6.5-7% of revenue; $49,500 initial on $719,491 avg = 6.9% of one year sales"
+    },
+    "t_payback_years": {
+      "value": 5.5,
+      "type": "theoretical",
+      "citation": "method: midpoint investment $427,263 / assumed 12% EBITDA margin on $719,491 avg sales = $86,339/yr -> 4.9-5.5 yrs; illustrative only, margin not disclosed in FDD"
+    },
+    "t_unit_efficiency": {
+      "value": 1.68,
+      "type": "theoretical",
+      "citation": "method: avg unit sales $719,491 / midpoint investment $427,263 = 1.68x sales-to-investment; monthly sales $59,958 covers ~$3,000 royalty+ad+tech with room"
+    },
+    "t_system_growth_rate": {
+      "value": 27.0,
+      "type": "theoretical",
+      "citation": "method: net outlet growth 2024: +17 on 63 base = 27% (FDD Item 20, p69)"
+    },
+    "t_saturation_risk": {
+      "value": "moderate",
+      "type": "theoretical",
+      "citation": "method: 71 of 80 outlets in CA (89%); 2-mile protected radius + non-traditional carve-outs; 36 signed-not-opened concentrated in CA"
+    },
+    "t_franchisee_support_score": {
+      "value": 55,
+      "type": "theoretical",
+      "citation": "method: 98-230h initial training + HQ support, but no financing, 2-person training coverage, refresher at franchisee cost"
+    },
+    "t_item19_confidence": {
+      "value": "MODERATE",
+      "type": "theoretical",
+      "citation": "method: 64/80 outlets (80%) included; range wide ($297k-$1.118M); unaudited/unverified; affiliate home-market skew disclosed"
+    },
+    "m_capital_fit": {
+      "value": "requires $285,800-$568,725 liquid/capital; no franchisor financing (Item 10)",
+      "type": "matching",
+      "citation": "fit-profile key, derived from absolute fields"
+    },
+    "m_experience_fit": {
+      "value": "food-service/QSR or multi-unit retail management preferred; no personal supervision required if approved manager in place",
+      "type": "matching",
+      "citation": "fit-profile key, derived from absolute fields"
+    },
+    "m_operational_fit": {
+      "value": "hands-on or manager-run; must enforce 90-100% approved-supplier purchasing and manual compliance",
+      "type": "matching",
+      "citation": "fit-profile key, derived from absolute fields"
+    },
+    "m_lifestyle_fit": {
+      "value": "single-unit or 10+ area development; on-site manager model allows semi-absentee with strong manager",
+      "type": "matching",
+      "citation": "fit-profile key, derived from absolute fields"
+    },
+    "m_risk_tolerance_fit": {
+      "value": "moderate risk tolerance: active franchise-related litigation, non-exclusive territory, young franchisor (2021)",
+      "type": "matching",
+      "citation": "fit-profile key, derived from absolute fields"
+    },
+    "m_location_fit": {
+      "value": "site within approved territory; 2-mile protected radius; West Coast Sourdough 3-mile exclusion zones",
+      "type": "matching",
+      "citation": "fit-profile key, derived from absolute fields"
+    },
+    "m_timeline_fit": {
+      "value": "open within 3 months of securing location / 12 months of signing; 10-year term + 2x5 renewals",
+      "type": "matching",
+      "citation": "fit-profile key, derived from absolute fields"
+    },
+    "m_multiunit_fit": {
+      "value": "area development (10+ units) offered with per-unit development fee credit $15,000",
+      "type": "matching",
+      "citation": "fit-profile key, derived from absolute fields"
+    },
+    "netWorthRequirement": "not disclosed in FDD",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirement": "not disclosed in FDD",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "pinVerification": {
+      "run_at": "2026-09-13T01:44:11Z",
+      "all_verified": true,
+      "pins_total": 12
+    },
+    "pinsUpdatedAt": "2026-09-13T01:44:11Z"
+  },
+  "extractor": "miner=sourdough-co-build",
+  "extraction_timestamp_utc": "2026-09-13T00:45:11.584655+00:00",
+  "fdd_filename": "2025_Sourdough__Co_FDD_-_Multi-State_IN_M.pdf",
+  "fdd_sha256": "dab9ca1768b5292ab6db1f5e551baa94b9d520945bb35b730145364e4056fdda",
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-13T01:44:11Z",
+    "pins_total": 12,
+    "pins_verified": 12,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "El Dorado Hills",
+        "state": "CA",
+        "stored": [
+          38.68274,
+          -121.05368
+        ],
+        "geocoded": [
+          38.6561185,
+          -121.0743265
+        ],
+        "distance_km": 3.46,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Sacramento",
+        "state": "CA",
+        "stored": [
+          38.58106,
+          -121.49389
+        ],
+        "geocoded": [
+          38.5810606,
+          -121.493895
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Roseville",
+        "state": "CA",
+        "stored": [
+          38.75212,
+          -121.28801
+        ],
+        "geocoded": [
+          38.7521235,
+          -121.2880059
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Lincoln",
+        "state": "CA",
+        "stored": [
+          38.89157,
+          -121.29318
+        ],
+        "geocoded": [
+          38.8915741,
+          -121.29318
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Dublin",
+        "state": "CA",
+        "stored": [
+          37.70215,
+          -121.93579
+        ],
+        "geocoded": [
+          37.7021521,
+          -121.9357918
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Livermore",
+        "state": "CA",
+        "stored": [
+          37.68206,
+          -121.76805
+        ],
+        "geocoded": [
+          37.6820583,
+          -121.768053
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Brentwood",
+        "state": "CA",
+        "stored": [
+          37.93178,
+          -121.69603
+        ],
+        "geocoded": [
+          37.9317766,
+          -121.696026
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "San Marcos",
+        "state": "CA",
+        "stored": [
+          33.1353,
+          -117.17434
+        ],
+        "geocoded": [
+          33.1352995,
+          -117.1743395
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 8,
+        "city": "Folsom",
+        "state": "CA",
+        "stored": [
+          38.67796,
+          -121.17606
+        ],
+        "geocoded": [
+          38.6779591,
+          -121.176058
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 9,
+        "city": "Houston",
+        "state": "TX",
+        "stored": [
+          29.75894,
+          -95.3677
+        ],
+        "geocoded": [
+          29.7589382,
+          -95.3676974
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 10,
+        "city": "Chandler",
+        "state": "AZ",
+        "stored": [
+          33.3062,
+          -111.84118
+        ],
+        "geocoded": [
+          33.3062031,
+          -111.841185
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 11,
+        "city": "Avondale",
+        "state": "AZ",
+        "stored": [
+          33.43537,
+          -112.34944
+        ],
+        "geocoded": [
+          33.4353704,
+          -112.3494394
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-13T01:44:11Z",
+  "risk_score": 49,
+  "risk_method": "litigation 75x0.20 + closure_history 10x0.15 + fee_burden 45x0.15 + item19_evidence 55x0.20 + system_maturity 50x0.15 + territory_protection 60x0.10 + growth_trend 30x0.05 = 48.75 -> 49 (weighted composite, higher=riskier; source: builder fields.t_risk_score citation. NOTE: independent recompute = 49.25, published says 48.75 - 0.5 builder arithmetic drift; rounded score 49 identical either way)",
+  "risk_components": [
+    {
+      "name": "litigation",
+      "weight": 0.2,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "closure_history",
+      "weight": 0.15,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "fee_burden",
+      "weight": 0.15,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "item19_evidence",
+      "weight": 0.2,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "system_maturity",
+      "weight": 0.15,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "territory_protection",
+      "weight": 0.1,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "growth_trend",
+      "weight": 0.05,
+      "note": "builder theoretical subscore"
+    }
+  ],
+  "risk_source": "fields.t_risk_score citation (builder theoretical)"
+}
