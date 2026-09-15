@@ -1,6 +1,6 @@
 {
   "brandName": "Sourdough & Co.",
-  "brandSlug": "sourdough-co-az",
+  "brandSlug": "sourdough-co",
   "websiteUrl": "https://worldofsourdough.com",
   "franchisorLegalName": "World of Sourdough Franchising, LLC",
   "hqCity": "Granite Bay",
@@ -21,7 +21,7 @@
   "corporateState": "CA",
   "corporateZip": "95746",
   "corporateAddress": "8700 Auburn Folsom Rd., Suite 700, Granite Bay, CA 95746",
-  "hq_source": "FDD Item 1, p1 — franchisor principal office",
+  "hq_source": "FDD Item 1, p1 \u2014 franchisor principal office",
   "description": "Sourdough & Co. (World of Sourdough Franchising, LLC) is a quick-service sandwich restaurant franchise offering handcrafted sandwiches, soups, salads, pasta, beverages and catering from eat-in/carry-out retail locations. FDD Item 19 reports average 2024 sales of $719,491 across 64 locations open all year (range $297,320-$1,117,988); Item 20 shows 80 outlets systemwide as of 2024-12-31 with zero terminations in 2022-2024. Initial investment $285,800-$568,725; 5% royalty; 2-mile protected (non-exclusive) territory.",
   "category": "Food & Beverage - Sandwich / Quick Service Restaurant",
   "yearFounded": 2021,
@@ -1289,9 +1289,9 @@
       "citation": "fit-profile key, derived from absolute fields"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
       "run_at": "2026-09-15T04:30:10Z",
       "all_verified": true,
@@ -1304,9 +1304,9 @@
   "fdd_filename": "2025_Sourdough__Co_FDD_-_Multi-State_IN_M.pdf",
   "fdd_sha256": "dab9ca1768b5292ab6db1f5e551baa94b9d520945bb35b730145364e4056fdda",
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
     "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
     "run_at": "2026-09-15T04:30:10Z",
@@ -1500,7 +1500,7 @@
   },
   "pinsUpdatedAt": "2026-09-15T04:30:10Z",
   "risk_score": 49,
-  "risk_method": "base 0 + litigation 15 + closure_history 1.5 + fee_burden 6.75 + item19_evidence 11 + system_maturity 7.5 + territory_protection 6 + growth_trend 1.5 = 49.25 -> 49 (recomputed 49.25; published method string said 48.75 — 0.5 builder arithmetic drift, rounded score 49 identical)",
+  "risk_method": "base 0 + litigation 15 + closure_history 1.5 + fee_burden 6.75 + item19_evidence 11 + system_maturity 7.5 + territory_protection 6 + growth_trend 1.5 = 49.25 -> 49 (recomputed 49.25; published method string said 48.75 \u2014 0.5 builder arithmetic drift, rounded score 49 identical)",
   "risk_components": [
     {
       "name": "litigation",
