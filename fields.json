@@ -21,13 +21,13 @@
   "corporateState": "CA",
   "corporateZip": "95746",
   "corporateAddress": "8700 Auburn Folsom Rd., Suite 700, Granite Bay, CA 95746",
-  "hq_source": "FDD Item 1, p1 \u2014 franchisor principal office",
+  "hq_source": "FDD Item 1, p1 — franchisor principal office",
   "description": "Sourdough & Co. (World of Sourdough Franchising, LLC) is a quick-service sandwich restaurant franchise offering handcrafted sandwiches, soups, salads, pasta, beverages and catering from eat-in/carry-out retail locations. FDD Item 19 reports average 2024 sales of $719,491 across 64 locations open all year (range $297,320-$1,117,988); Item 20 shows 80 outlets systemwide as of 2024-12-31 with zero terminations in 2022-2024. Initial investment $285,800-$568,725; 5% royalty; 2-mile protected (non-exclusive) territory.",
   "category": "Food & Beverage - Sandwich / Quick Service Restaurant",
   "yearFounded": 2021,
   "yearFranchising": 2021,
   "fddYear": 2025,
-  "territoryDescription": "2-mile radius of the Specific Location (MapQuest). Non-exclusive: franchisor may place Non-Traditional Sites (malls, airports, campuses, military, inside retail) inside the radius and competes via other channels. (FDD Item 12, pp37-38)",
+  "territoryDescription": "2-mile radius of the Specific Location (MapQuest). Non-exclusive: franchisor may place Non-Traditional Sites (malls, airports, campuses, military, inside retail) inside the radius and competes via other channels. (FDD Item 12, pp37-38) FDD Item 20 Table 1 (p74) lists 80 outlets systemwide as of 2024-12-31; 12 are mapped as pins on this page.",
   "item12": "2-mile radius of Specific Location; not exclusive (FDD Item 12, pp37-38)",
   "item20PinCount": 12,
   "item20_fdd_count": 80,
@@ -1289,31 +1289,31 @@
       "citation": "fit-profile key, derived from absolute fields"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
-      "run_at": "2026-09-13T01:44:11Z",
+      "run_at": "2026-09-15T04:30:10Z",
       "all_verified": true,
       "pins_total": 12
     },
-    "pinsUpdatedAt": "2026-09-13T01:44:11Z"
+    "pinsUpdatedAt": "2026-09-15T04:30:10Z"
   },
   "extractor": "miner=sourdough-co-build",
   "extraction_timestamp_utc": "2026-09-13T00:45:11.584655+00:00",
   "fdd_filename": "2025_Sourdough__Co_FDD_-_Multi-State_IN_M.pdf",
   "fdd_sha256": "dab9ca1768b5292ab6db1f5e551baa94b9d520945bb35b730145364e4056fdda",
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
-    "run_utc": "2026-09-15T02:51:15.790058+00:00",
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-15T04:30:10Z",
     "pins_total": 12,
     "pins_verified": 12,
-    "pins_mismatch": 0,
     "pins_unverifiable": 0,
+    "pins_mismatch": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1325,11 +1325,10 @@
           -121.05368
         ],
         "geocoded": [
-          38.682736,
-          -121.053683
+          38.6561185,
+          -121.0743265
         ],
-        "geocode_query": "El Dorado Hills, California, United States",
-        "distance_km": 0.0,
+        "distance_km": 3.46,
         "status": "VERIFIED"
       },
       {
@@ -1341,10 +1340,9 @@
           -121.49389
         ],
         "geocoded": [
-          38.581061,
+          38.5810606,
           -121.493895
         ],
-        "geocode_query": "Sacramento, California, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1357,10 +1355,9 @@
           -121.28801
         ],
         "geocoded": [
-          38.752124,
-          -121.288006
+          38.7521235,
+          -121.2880059
         ],
-        "geocode_query": "Roseville, California, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1373,10 +1370,9 @@
           -121.29318
         ],
         "geocoded": [
-          38.891574,
+          38.8915741,
           -121.29318
         ],
-        "geocode_query": "Lincoln, California, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1389,10 +1385,9 @@
           -121.93579
         ],
         "geocoded": [
-          37.702152,
-          -121.935792
+          37.7021521,
+          -121.9357918
         ],
-        "geocode_query": "Dublin, California, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1405,10 +1400,9 @@
           -121.76805
         ],
         "geocoded": [
-          37.682058,
+          37.6820583,
           -121.768053
         ],
-        "geocode_query": "Livermore, California, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1421,10 +1415,9 @@
           -121.69603
         ],
         "geocoded": [
-          37.931777,
+          37.9317766,
           -121.696026
         ],
-        "geocode_query": "Brentwood, California, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1437,10 +1430,9 @@
           -117.17434
         ],
         "geocoded": [
-          33.1353,
-          -117.17434
+          33.1352995,
+          -117.1743395
         ],
-        "geocode_query": "San Marcos, California, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1453,10 +1445,9 @@
           -121.17606
         ],
         "geocoded": [
-          38.677959,
+          38.6779591,
           -121.176058
         ],
-        "geocode_query": "Folsom, California, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1469,10 +1460,9 @@
           -95.3677
         ],
         "geocoded": [
-          29.758938,
-          -95.367697
+          29.7589382,
+          -95.3676974
         ],
-        "geocode_query": "Houston, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1485,10 +1475,9 @@
           -111.84118
         ],
         "geocoded": [
-          33.306203,
+          33.3062031,
           -111.841185
         ],
-        "geocode_query": "Chandler, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1501,18 +1490,17 @@
           -112.34944
         ],
         "geocoded": [
-          33.43537,
-          -112.349439
+          33.4353704,
+          -112.3494394
         ],
-        "geocode_query": "Avondale, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-15T02:51:15.790058+00:00",
+  "pinsUpdatedAt": "2026-09-15T04:30:10Z",
   "risk_score": 49,
-  "risk_method": "base 0 + litigation 15 + closure_history 1.5 + fee_burden 6.75 + item19_evidence 11 + system_maturity 7.5 + territory_protection 6 + growth_trend 1.5 = 49.25 -> 49 (recomputed 49.25; published method string said 48.75 \u2014 0.5 builder arithmetic drift, rounded score 49 identical)",
+  "risk_method": "base 0 + litigation 15 + closure_history 1.5 + fee_burden 6.75 + item19_evidence 11 + system_maturity 7.5 + territory_protection 6 + growth_trend 1.5 = 49.25 -> 49 (recomputed 49.25; published method string said 48.75 — 0.5 builder arithmetic drift, rounded score 49 identical)",
   "risk_components": [
     {
       "name": "litigation",
@@ -1553,5 +1541,8 @@
   "risk_source": "fields.t_risk_score citation (builder theoretical)",
   "logoUrl": "https://worldofsourdough.com/templates/yootheme/cache/3f/logoclearwhite-3f6d1f2b.png",
   "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
-  "risk_method_original_2026_09_14": "litigation 75x0.20 + closure_history 10x0.15 + fee_burden 45x0.15 + item19_evidence 55x0.20 + system_maturity 50x0.15 + territory_protection 60x0.10 + growth_trend 30x0.05 = 48.75 -> 49 (weighted composite, higher=riskier; source: builder fields.t_risk_score citation. NOTE: independent recompute = 49.25, published says 48.75 - 0.5 builder arithmetic drift; rounded score 49 identical either way)"
+  "risk_method_original_2026_09_14": "litigation 75x0.20 + closure_history 10x0.15 + fee_burden 45x0.15 + item19_evidence 55x0.20 + system_maturity 50x0.15 + territory_protection 60x0.10 + growth_trend 30x0.05 = 48.75 -> 49 (weighted composite, higher=riskier; source: builder fields.t_risk_score citation. NOTE: independent recompute = 49.25, published says 48.75 - 0.5 builder arithmetic drift; rounded score 49 identical either way)",
+  "adFee": "0%",
+  "adFeeNote": "FDD Item 6 (p12): System Advertising Fee currently none (cap 3% of Gross Revenue/mo); Local Advertising Fee currently 1% of Gross Revenues/mo (up to 3%).",
+  "territoryType": "non-exclusive"
 }
